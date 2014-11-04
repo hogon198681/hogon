@@ -14,7 +14,7 @@
   background-image:url('http://www.thesupercars.org/wp-content/uploads/2007/07/maybach-exelero.jpg');
   height: 500px;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 500px 1000px;
 }
 
 .jumbotron .container {
